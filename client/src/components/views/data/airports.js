@@ -1,0 +1,2 @@
+const AIRPORT = ['Angola', 'Burkina Faso', 'Burundi', 'Benin', 'Botswana', 'Congo (Kinshasa)', 'Central African Republic', 'Congo (Brazzaville)', "Côte d'Ivoire", 'Cameroon', 'Cape Verde', 'Djibouti', 'Algeria', 'Egypt', 'Western Sahara', 'Eritrea', 'Ethiopia', 'Gabon', 'Ghana', 'Gambia'];
+export default AIRPORT;

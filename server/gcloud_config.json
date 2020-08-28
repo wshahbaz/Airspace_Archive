@@ -1,0 +1,7 @@
+{
+  "GCLOUD_PROJECT": "",
+  "DATA_BACKEND": "cloudsql",
+  "MYSQL_USER": "ignore",
+  "MYSQL_PASSWORD": "ignore",
+  "INSTANCE_CONNECTION_NAME": ""
+}

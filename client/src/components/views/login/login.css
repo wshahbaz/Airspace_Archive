@@ -1,0 +1,11 @@
+.close {display: none;}
+
+.modal {
+    padding-top: 20%;
+    /* height: 300px;
+    width: 400px; */
+}
+
+.bad {
+    color: red;
+}

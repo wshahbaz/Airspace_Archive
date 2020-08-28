@@ -1,0 +1,17 @@
+.queryDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.query-box {
+    margin: 20px;
+}
+
+.backBtn {
+    display: flex;
+    margin-left: 40px;
+    padding-top: 20px;
+
+    width: 110px;
+    height: 42px;
+}

@@ -1,0 +1,2 @@
+const COUNTRY = ['Abu Dhabi Northeast Airport', 'Honiara International Airport', 'Munda Airport', 'Gjirokastër Airport', 'Yerevan Yegvard Airport', 'Nauru International Airport', 'Matala Airport', 'Cabo Ledo Airport', 'Palmer Station Airport', 'Petrel Airport', 'Cachi Airport', 'Cafayate Airport', 'Villa Minetti Airport', 'Isla Martin Garcia Airport', 'Bell Ville Airport', 'Santa Rita Airport', 'El Porton Airport', 'Estancia Don Panos Airport', 'Campo Arenal Airport', 'Quemu Quemu Airport'];
+export default COUNTRY;

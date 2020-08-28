@@ -1,0 +1,27 @@
+{
+  "name": "disc-back-end",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "^4.16.4",
+    "firebase": "^5.7.2",
+    "firebase-admin": "^6.4.0",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.2",
+    "mocha": "^5.2.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "nconf": "^0.10.0",
+    "pug": "2.0.0-beta11",
+    "url-join": "^4.0.0"
+  }
+}
